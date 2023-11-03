@@ -44,7 +44,7 @@ abstract -
 
 		5. One interface can extend another interface.
 
-		6. Marker inteface - It is an interface without any method inside that. e.g. Serializable, Cloneable
+		6. Marker interface - It is an interface without any method inside that. e.g. Serializable, Cloneable
 
 		7. Functional interface - It is an interface with only one method inside that. e.g. Runnable, Consumer, Predicate, Supplier
 
