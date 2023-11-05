@@ -10,10 +10,5 @@ public class ArrayCopy {
 		
 		for(int val: b)
 			System.out.print(val + " ");
-		
-		//Method add
-		// System.out.println(add(1, 2, 3, 4));
-
 	}
-
 }
